@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.env
+.env.*
+*.log
+npm-debug.log*
+mdsaving-next-postgres-auth*.zip
